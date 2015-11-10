@@ -11,6 +11,6 @@ public class EvenNumberGeneratorTest {
 	   
       int randomResult = EvenNumberGenerator.generateRandomEven();
       
-      assertEquals(0,randomResult%3);
+      assertEquals(0,randomResult%2);
    }
 }
