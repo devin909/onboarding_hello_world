@@ -88,7 +88,7 @@ uploadArchives {
       }
     }
 }
-
+//new commment
 pmd {
   ignoreFailures = true
   //sourceSets = ['src/main', 'src/test']
